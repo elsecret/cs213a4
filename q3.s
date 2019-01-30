@@ -44,7 +44,7 @@ code:
                 halt                     
 .pos 0x2000
 static:         
-i:              .long 1
+i:              .long 0
 v0:             .long 0
 v1:             .long 0
 v2:             .long 0
